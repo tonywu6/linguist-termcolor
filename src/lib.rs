@@ -27,13 +27,13 @@
 //! [CMYK]: https://en.wikipedia.org/wiki/CMYK_color_model
 //!
 //! <pre>$ linguist-termcolor -c rgb for python
-//! <strong style="color: #3572a5 !important">rgb #3572a5</strong> <strong style="color: #5f5faf !important">xterm 61</strong> rust</pre>
+//! <strong style="color: #3572a5 !important">rgb #3572a5</strong> <strong style="color: #5f5faf !important">xterm 61</strong> python</pre>
 //!
 //! <pre>$ linguist-termcolor -c cmyk for python
-//! <strong style="color: #3572a5 !important">rgb #3572a5</strong> <strong style="color: #5f87af !important">xterm 67</strong> rust</pre>
+//! <strong style="color: #3572a5 !important">rgb #3572a5</strong> <strong style="color: #5f87af !important">xterm 67</strong> python</pre>
 //!
 //! <pre>$ linguist-termcolor -c lab for python
-//! <strong style="color: #3572a5 !important">rgb #3572a5</strong> <strong style="color: #005f87 !important">xterm 24</strong> rust</pre>
+//! <strong style="color: #3572a5 !important">rgb #3572a5</strong> <strong style="color: #005f87 !important">xterm 24</strong> python</pre>
 
 use std::{
     borrow::Cow,

@@ -1,6 +1,6 @@
 [package]
 name = "linguist-termcolor"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["tonywu6 <tonywu6@protonmail.com>"]
 description = "Query GitHub's library for colors for programming languages"
